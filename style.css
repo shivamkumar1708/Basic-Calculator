@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Varela&display=swap");
+.container {
+  text-align: center;
+  font-size: 10px;
+}
+.container h1 {
+  font-family: "Varela", sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+  color: aliceblue;
+}
+table {
+  margin: auto;
+}
+body {
+  background-color: rgb(31, 113, 113);
+}
+.container input {
+  font-size: 30px;
+  border-radius: 13px;
+  height: 60px;
+  background-color: rgb(184, 244, 223);
+}
+button {
+  padding: 10px;
+  font-size: 35px;
+  width: 120px;
+  height: 80px;
+  border-radius: 18px;
+  border-color: rgb(146, 146, 173);
+  cursor: pointer;
+  background-color: black;
+  color: rgb(149, 133, 133);
+  font-weight: bolder;
+}
+.calculater {
+  text-align: center;
+  background-color: black;
+  display: inline-block;
+  border-radius: 12px;
+}
